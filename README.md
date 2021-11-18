@@ -58,6 +58,8 @@
 
 > A gateway is a network node which is responsible for connecting two networks together that use different protocols. Gateways are located on the edge of a network and manages receiving and transmitted packets to and from that network.
 
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.stack.imgur.com%2FqAldy.jpg&f=1&nofb=1)
+
 #### Repeater
 
 > Just like a Minecraft Redstone repeater, repeaters in a computer network are devices that are responsible for strengthening a signal over a long distance. These devices operate on Layer 1 of the OSI Model (the physical layer).
